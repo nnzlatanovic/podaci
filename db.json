@@ -1,10 +1,10 @@
 {
   "data":[
-    {
+    "item" : {
       "naziv": "jutrenje",
       "title": "7:00"
     },
-    {
+    "item": {
       "naziv": "vecernje",
       "title": "18:00"
     }
