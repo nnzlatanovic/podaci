@@ -2,11 +2,11 @@
   "data" : [
       {
         "naziv": "jutrenje",
-        "title": "7:00"
+        "title": "sedam"
       },
       {
         "naziv": "vecernje",
-        "title": "18:00"
+        "title": "osamnest"
       }
   ]
 }
