@@ -2,15 +2,21 @@
   "data" : [
       {
         "naziv": "Jutrenje",
-        "vreme": "7:00"
+        "vreme": "7:00",
+        "sluzi" : "Nekratije Djuric",
+        "info" : "Sveta tajna ispovesti"
       },
       {
         "naziv": "Vecernje",
-        "vreme": "18:00"
+        "vreme": "18:00",
+        "sluzi" : "Miodrag Ristic",
+        "info" : "Sveta tajna ispovesti"
       },
       {
         "naziv" : "liturgija",
-        "vreme" : "9:00"
+        "vreme" : "9:00",
+        "sluzi" : "Miodrag Ristic",
+        "info" : "Sveta tajna ispovesti"
       }
   ]
 }
