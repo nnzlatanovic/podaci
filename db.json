@@ -4,7 +4,7 @@
         "naziv": "Jutrenje",
         "vreme": "7:00",
         "sluzi" : "Nekratije Djuric",
-        "info" : "Sveta tajna ispovesti"
+        "info" : ""
       },
       {
         "naziv": "Vecernje",
@@ -16,7 +16,7 @@
         "naziv" : "liturgija",
         "vreme" : "9:00",
         "sluzi" : "Miodrag Ristic",
-        "info" : "Sveta tajna ispovesti"
+        "info" : ""
       }
   ]
 }
