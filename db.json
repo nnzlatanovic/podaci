@@ -1,22 +1,33 @@
 { 
-  "bogosluzenja" : [
+  {
+    "bogosluzenja" : [
+        {
+          "naziv": "Jutrenje",
+          "vreme": "7:00",
+          "sluzi" : "Nekratije Djuric",
+          "info" : ""
+        },
+        {
+          "naziv": "Vecernje",
+          "vreme": "18:00",
+          "sluzi" : "Miodrag Ristic",
+          "info" : "Sveta tajna ispovesti"
+        },
+        {
+          "naziv" : "liturgija",
+          "vreme" : "9:00",
+          "sluzi" : "Miodrag Ristic",
+          "info" : ""
+        }
+    ]
+  },
+  {
+    "dogadjaji" : [
       {
-        "naziv": "Jutrenje",
-        "vreme": "7:00",
-        "sluzi" : "Nekratije Djuric",
-        "info" : ""
+        "tip" : "Predavanje",
+        "naziv" : "Tumacenje Jevandjelja Svetog Jovana",
+        "vreme" : "19:00"
       },
-      {
-        "naziv": "Vecernje",
-        "vreme": "18:00",
-        "sluzi" : "Miodrag Ristic",
-        "info" : "Sveta tajna ispovesti"
-      },
-      {
-        "naziv" : "liturgija",
-        "vreme" : "9:00",
-        "sluzi" : "Miodrag Ristic",
-        "info" : ""
-      }
-  ]
+    ]
+  }
 }
