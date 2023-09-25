@@ -1,12 +1,16 @@
 {
   "data" : [
       {
-        "naziv": "jutrenje",
-        "title": "sedam"
+        "naziv": "Jutrenje",
+        "vreme": "7:00"
       },
       {
-        "naziv": "vecernje",
-        "title": "osamnest"
+        "naziv": "Vecernje",
+        "vreme": "18:00"
+      },
+      {
+        "naziv" : "liturgija",
+        "vreme" : "9:00"
       }
   ]
 }
