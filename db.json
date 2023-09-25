@@ -1,5 +1,5 @@
-{
-  "data" : [
+{ 
+  "bogosluzenja" : [
       {
         "naziv": "Jutrenje",
         "vreme": "7:00",
@@ -18,5 +18,12 @@
         "sluzi" : "Miodrag Ristic",
         "info" : ""
       }
+  ],
+  "dogadjaji" : [
+    {
+      "tip" : "Predavanje",
+      "naziv" : "Tumacenje Jevandjelja Svetog Jovana",
+      "vreme" : "19:00"
+    },
   ]
 }
