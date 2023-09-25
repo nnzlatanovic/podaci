@@ -1,5 +1,4 @@
 { 
-  {
     "bogosluzenja" : [
         {
           "naziv": "Jutrenje",
@@ -19,9 +18,8 @@
           "sluzi" : "Miodrag Ristic",
           "info" : ""
         }
-    ]
-  },
-  {
+    ],
+  
     "dogadjaji" : [
       {
         "tip" : "Predavanje",
@@ -29,5 +27,4 @@
         "vreme" : "19:00"
       },
     ]
-  }
 }
