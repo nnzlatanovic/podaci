@@ -24,25 +24,29 @@
             "tip": "Predavanje",
             "datum" : "21.10.2023",
             "naziv": "Tumačenje Jevanđelja Svetog Jovana",
-            "vreme": "19:00"
+            "vreme": "19:00",
+            "predavac" : "Aleksandar Lucic"
         },
         {
             "tip": "Liturgija",
             "datum" : "21.10.2023",
             "naziv": "Djurdjevdan",
-            "vreme": "9:00"
+            "vreme": "9:00",
+            "sluzi" : "Nektarije Djuric, Trajan Kojic, Aleksandar Lucic"
         },
         {
             "tip": "Predavanje",
             "datum" : "21.10.2023",
             "naziv": "Tumačenje Jevanđelja Svetog Jovana",
-            "vreme": "19:00"
+            "vreme": "19:00",
+            "predavac" : "Branislav Borota"
         },
         {
             "tip": "Liturgija",
             "datum" : "21.10.2023",
             "naziv": "Sveti Nikola",
-            "vreme": "9:00"
+            "vreme": "9:00",
+            "sluzi" : "Branislav Borota, Trajan Kojic, Aleksandar Lucic"
         }
     ]}
 
