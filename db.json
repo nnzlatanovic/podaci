@@ -24,6 +24,21 @@
             "tip": "Predavanje",
             "naziv": "Tumačenje Jevanđelja Svetog Jovana",
             "vreme": "19:00"
+        },
+        {
+            "tip": "Liturgija",
+            "naziv": "Djurdjevdan",
+            "vreme": "9:00"
+        },
+        {
+            "tip": "Predavanje",
+            "naziv": "Tumačenje Jevanđelja Svetog Jovana",
+            "vreme": "19:00"
+        },
+        {
+            "tip": "Liturgija",
+            "naziv": "Sveti Nikola",
+            "vreme": "9:00"
         }
     ]}
 
